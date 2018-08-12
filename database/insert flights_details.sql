@@ -1,0 +1,15 @@
+INSERT INTO `flight_details` (`flight_number`,`source`,`destination`,`fare`,`flight_name`,`date`,`arrival_time`,`departure_time`) VALUES 
+ ('12313','kochi','dubai',5000,'air india','2011-12-12 00:00:00','12:12','1:12'),
+ ('1234','trivandrum','kochi',1200,'air india',NULL,'2:12','3:12'),
+ ('2342','trivandrum','dubai',4506,'air india','2000-12-12 00:00:00','12:12','1:23'),
+ ('3232','trivandrum','kuwait',7685,'air india',NULL,NULL,NULL),
+ ('32323','trivandrum','kochi',1212,'ethihad','1989-11-05 00:00:00','3:45','4:56'),
+ ('32352','kochi','trivandrum',1200,'air india',NULL,NULL,NULL),
+ ('3455','trivandrum','kochi',1212,'air india','1989-11-05 00:00:00','3:45','4:56'),
+ ('34643','trivandrum','kuwait',8574,'air india',NULL,'3:34','5:11'),
+ ('5476','kochi','trivandrum',8575,'ethihad','2012-01-02 00:00:00','12:23','1:23'),
+ ('5487','trivandrum','dubai',3212,'ethihad','2012-12-12 00:00:00','12:23','01:23'),
+ ('67678','trivandrum','kochi',1212,'indian airlines','1989-11-05 00:00:00','3:45','4:56'),
+ ('6876','trivandrum','dubai',35435,'air arabia','1982-06-02 00:00:00','12:56','2:12'),
+ ('8764','kochi','kuwait',7867,'air india','2000-12-12 00:00:00',NULL,NULL),
+ ('98934','trivandrum','kuwait',8934,'ethihad','2012-01-01 00:00:00',NULL,NULL);
